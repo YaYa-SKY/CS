@@ -1,0 +1,24 @@
+[
+    {
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/eng.json",
+        "verified": true
+    },
+    {
+        "url": "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/multi.json",
+        "verified": true
+    },
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/hexa.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/arab.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/nsfw.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/drepo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/likdev.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/kronch.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/french.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/storm.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/dsh.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/horis.json",
+    "https://raw.githubusercontent.com/CakesTwix/cloudstream-extensions-uk/master/repo.json",
+    "https://raw.githubusercontent.com/C10udburst/cloudstream-misc/builds/repo.json",
+    "https://raw.githubusercontent.com/MustardChef/CS3SiteArchive/master/extensions/Bongngo.json"
+    
+]
